@@ -18,8 +18,6 @@
 
 <p align="center">
   <a href="https://github.com/dujudini/site-audit-agent"><img src="https://img.shields.io/badge/site--audit--agent-see_the_agent-7FD7A4?style=flat-square&logo=github" alt="site-audit-agent"></a>
-  <a href="https://apps.apple.com/br/app/cia-lazer/id1576750190"><img src="https://img.shields.io/badge/Cia_Lazer_app-App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="Cia Lazer app on the App Store"></a>
-  <a href="https://play.google.com/store/apps/details?id=br.com.cialazer"><img src="https://img.shields.io/badge/Cia_Lazer_app-Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Cia Lazer app on Google Play"></a>
   <a href="mailto:eduardo@dujudini.com.br"><img src="https://img.shields.io/badge/email-eduardo@dujudini.com.br-FF7A70?style=flat-square&logo=maildotru&logoColor=white" alt="eduardo@dujudini.com.br"></a>
   <a href="https://www.linkedin.com/in/dujudini"><img src="https://img.shields.io/badge/LinkedIn-dujudini-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://www.dujudini.com.br"><img src="https://img.shields.io/badge/web-dujudini.com.br-141C2F?style=flat-square" alt="dujudini.com.br"></a>
